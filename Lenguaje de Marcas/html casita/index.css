@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+header{
+    background: blueviolet;
+    padding: 17px;
+    border: 2px solid red;
+}
+
+
+article{
+    display: flex;
+    flex-direction: row;
+}
+
+div{
+    
+}
+
+article div{    
+    background: red;
+    width: 20vw;
+    height: 70vh;
+    text-align: center;
+    
+    
+}
+footer div{
+    background: yellow;
+    border: 2px solid blue;
+    font-weight: bold;
+}
